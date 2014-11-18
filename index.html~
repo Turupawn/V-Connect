@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Celestial Bootstarp Website Template | Home :: w3layouts</title>
+<title>V-Connect</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
@@ -15,6 +15,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <link href="css/style.css" rel='stylesheet' type='text/css' />
 <!-- Custom Theme files -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-8">
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!--webfont-->
 <link href='http://fonts.googleapis.com/css?family=Economica:400,700' rel='stylesheet' type='text/css'>
@@ -76,10 +77,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<a class="toggleMenu" href="#"><img src="images/nav_icon.png" alt="" /> </a>
 					<ul class="nav" id="nav">
 					  <li class="current"><a href="#home" class="scroll">Inicio</a></li>
-					  <li><a href="#about" class="scroll">¿Quiיnes Somos?</a></li>
+					  <li><a href="#about" class="scroll">Â¿QuiÃ©nes Somos?</a></li>
 					  <li><a href="#services" class="scroll">Empresas Afiliadas</a></li>
-					  <li><a href="#work" class="scroll">Inscripciףn</a></li>
-					  <li><a href="#contact" class="scroll">Contבctanos</a></li>								
+					  <li><a href="#work" class="scroll">InscripciÃ³n</a></li>
+					  <li><a href="#contact" class="scroll">ContÃÂ¡ctanos</a></li>								
 					 </ul>
 					<script type="text/javascript" src="js/responsive-nav.js"></script>
 					<script type="text/javascript" src="js/move-top.js"></script>
@@ -104,7 +105,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<a class="banner-btn" href="#"><span> </span></a>
 						<h1>V-Connect</h1>
 						<p>Una oportunidad laboral a solo un click de distancia.</p>
-						<a href="#" class="banner_btn">Únete</a>
+						<a href="#" class="banner_btn">Ãnete</a>
 					 </div>
 				</div>
 		    </div>
@@ -112,16 +113,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		    <div class="main">
 		    	<div class="content_top" id="about">
 		    		<div class='container'>
-		    			<h2 class="head">¿Quiיnes Somos?</h2>
-		    			<p class="m_1">Somos intermediarios entre personas que estבn interesadas en obtener una oportunidad laboral y las empresas en busca de profesionales. Comenzamos como un proyecto inspirado en hacer uso de la tecnologia para facilitar la busqueda de empleo sin importar el lugar o el momento, ya que se administra por medio de un Smartphone.</p>
+		    			<h2 class="head">Â¿QuiÃ©nes Somos?</h2>
+		    			<p class="m_1">Somos intermediarios entre personas que estÃ¡n interesadas en obtener una oportunidad laboral y las empresas en busca de profesionales. Comenzamos como un proyecto inspirado en hacer uso de la tecnologia para facilitar la busqueda de empleo sin importar el lugar o el momento, ya que se administra por medio de un Smartphone.</p>
 		    			<div class="row top_box">
 		    				<div class="col-md-6 contentleft_grid">
-		    					<h3 class="m_2"><i class="pen"></i>Misiףn</h3>
-		    					<p class="m_3">Mediante la estrategia de una aplicaciףn mףvil crearemos un puente de comunicaciףn seguro y confiable entre las empresas y los demandantes de trabajo proveyendo informaciףn de calidad. </p>
+		    					<h3 class="m_2"><i class="pen"></i>MisiÃÂ³n</h3>
+		    					<p class="m_3">Mediante la estrategia de una aplicaciÃÂ³n mÃÂ³vil crearemos un puente de comunicaciÃÂ³n seguro y confiable entre las empresas y los demandantes de trabajo proveyendo informaciÃÂ³n de calidad. </p>
 		    				</div>
 		    				<div class="col-md-6">
-		    					<h3 class="m_2"><i class="tick"></i>Visiףn</h3>
-		    					<p class="m_3">Ser la empresa lםder de colocaciףn de trabajo en el mercado laboral de Honduras para el aסo 2018, reconocida por su capacidad innovadora comprometida con la mejora del mercado laboral del paםs.</p>
+		    					<h3 class="m_2"><i class="tick"></i>VisiÃÂ³n</h3>
+		    					<p class="m_3">Ser la empresa lÃÂ­der de colocaciÃÂ³n de trabajo en el mercado laboral de Honduras para el aÃÂ±o 2018, reconocida por su capacidad innovadora comprometida con la mejora del mercado laboral del paÃÂ­s.</p>
 		    				</div>
 		    			</div>
 		    		</div>
@@ -173,31 +174,31 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                       <div class="content_bottom" id="work">
 		    	  <div class="container"> 
 			       <div class="portfolio_top">
-					 <h3 class="m_5">Inscripciףn</h3>
+					 <h3 class="m_5">InscripciÃ³n</h3>
                                            <form method="post" action="contact-post.html">
                                              <div class="contact-form">
 
                                                <p class="comment-form-author"><label for="author">Nombre:</label>
-					         <input type="text" class="textbox" value="Escribe tu nombre completo aquם..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+					         <input type="text" class="textbox" value="Escribe tu nombre completo aquÃ­..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
 					       </p>
 
                                                <p class="comment-form-author"><label for="author">Fecha de nacimiento:</label>
-					         <input type="text" class="textbox" value="Escribe tu fecha de nacimiento aquם..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+					         <input type="text" class="textbox" value="Escribe tu fecha de nacimiento aquÃ­..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
 					       </p>
 
-                                               <p class="comment-form-author"><label for="author">Direcciףn Personal:</label>
-					         <input type="text" class="textbox" value="Escribe tu direcciףn personal aquם..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+                                               <p class="comment-form-author"><label for="author">DirecciÃ³n Personal:</label>
+					         <input type="text" class="textbox" value="Escribe tu direcciÃ³n personal aquÃ­..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
 					       </p>
 
-                                               <p class="comment-form-author"><label for="author">Nתmero de Telיfono:</label>
-					         <input type="text" class="textbox" value="Escribe tu nתmero de telיfono aquם..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+                                               <p class="comment-form-author"><label for="author">NÃ÷mero de TelÃ©fono:</label>
+					         <input type="text" class="textbox" value="Escribe tu nÃ÷mero de telÃ©fono aquÃ­..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
 					       </p>
 
-                                               <p class="comment-form-author"><label for="author">Direcciףn de correo electrףnico:</label>
-					         <input type="text" class="textbox" value="Escribe tu direcciףn electrףnica aquם..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+                                               <p class="comment-form-author"><label for="author">DirecciÃ³n de correo electrÃ³nico:</label>
+					         <input type="text" class="textbox" value="Escribe tu direcciÃ³n electrÃ³nica aquÃ­..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
 					       </p>
 
-                                               <p class="comment-form-author"><label for="author">formaciףn Academica:</label>
+                                               <p class="comment-form-author"><label for="author">formaciÃ³n Academica:</label>
 					         <input type="text" class="textbox" value="Escribe el lugar en el que te formaste e indica   las fechas..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
 					       </p>                                             
 
@@ -206,7 +207,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					       </p>
 
                                                <p class="comment-form-author"><label for="author">Idiomas:</label>
-					         <input type="text" class="textbox" value="Escribe los idiomas y si posees algתn titulo que acredite el nivel de conocimiento..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+					         <input type="text" class="textbox" value="Escribe los idiomas y si posees algÃ÷n titulo que acredite el nivel de conocimiento..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
 					       </p>                                               
                                                <input name="submit" type="submit" id="submit" value="Enviar">
                                              </div>
@@ -218,28 +219,28 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 		      <div class="contact" id="contact">
 		      	<div class="container">
-                                <h2 class="head">Contבctanos</h2>
+                                <h2 class="head">ContÃÂ¡ctanos</h2>
 		      		<div class="row">
 		      			<div class="col-md-9">
 		      			  <div class="contact-form">
 				  	        <form>
 					    	    <p class="comment-form-author"><label for="author">Nombre:</label>
-					    	    	<input type="text" class="textbox" value="Escribe tu nombre aquם..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+					    	    	<input type="text" class="textbox" value="Escribe tu nombre aquÃÂ­..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
 						    	</p>
 						        <p class="comment-form-author"><label for="author">Correo Electronico:</label>
-						     	   <input type="text" class="textbox" value="Escribe tu correo aquם..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}">
+						     	   <input type="text" class="textbox" value="Escribe tu correo aquÃÂ­..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}">
 						        </p>
 						        <p class="comment-form-author"><label for="author">Mensaje:</label>
-						    	  <textarea value="Enter your message here..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Escribe tu mensaje aquם...</textarea>
+						    	  <textarea value="Enter your message here..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Escribe tu mensaje aquÃÂ­...</textarea>
 						        </p>
-						        <input name="submit" type="submit" id="submit">
+						        <input name="submit" type="submit" id="submit" value="Enviar">
 					        </form>
 				          </div>
 				        </div>
 		      			<div class="col-md-3 contact_right">
 		      				<h4>V-connect</h4>
-		      				<p class="contact_address">Contactanos en caso de sugerencias o dudas, queremos saber tu opiniףn.</p>
-		      				<p class="contact_address1">Telיfono: 99999999</p>
+		      				<p class="contact_address">Contactanos en caso de sugerencias o dudas, queremos saber tu opiniÃÂ³n.</p>
+		      				<p class="contact_address1">TelÃÂ©fono: 99999999</p>
 		      			</div>
 		      		</div>
 		      	</div>
