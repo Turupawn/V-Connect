@@ -117,12 +117,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		    			<p class="m_1">Somos intermediarios entre personas que están interesadas en obtener una oportunidad laboral y las empresas en busca de profesionales. Comenzamos como un proyecto inspirado en hacer uso de la tecnologia para facilitar la busqueda de empleo sin importar el lugar o el momento, ya que se administra por medio de un Smartphone.</p>
 		    			<div class="row top_box">
 		    				<div class="col-md-6 contentleft_grid">
-		    					<h3 class="m_2"><i class="pen"></i>MisiÃ³n</h3>
-		    					<p class="m_3">Mediante la estrategia de una aplicaciÃ³n mÃ³vil crearemos un puente de comunicaciÃ³n seguro y confiable entre las empresas y los demandantes de trabajo proveyendo informaciÃ³n de calidad. </p>
+		    					<h3 class="m_2"><i class="pen"></i>Misión</h3>
+		    					<p class="m_3">Mediante la estrategia de una aplicación móvil crearemos un puente de comunicación seguro y confiable entre las empresas y los demandantes de trabajo proveyendo información de calidad. </p>
 		    				</div>
 		    				<div class="col-md-6">
-		    					<h3 class="m_2"><i class="tick"></i>VisiÃ³n</h3>
-		    					<p class="m_3">Ser la empresa lÃ­der de colocaciÃ³n de trabajo en el mercado laboral de Honduras para el aÃ±o 2018, reconocida por su capacidad innovadora comprometida con la mejora del mercado laboral del paÃ­s.</p>
+		    					<h3 class="m_2"><i class="tick"></i>Visión</h3>
+		    					<p class="m_3">Ser la empresa líder de colocación de trabajo en el mercado laboral de Honduras para el año 2018, reconocida por su capacidad innovadora comprometida con la mejora del mercado laboral del país.</p>
 		    				</div>
 		    			</div>
 		    		</div>
@@ -219,19 +219,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 		      <div class="contact" id="contact">
 		      	<div class="container">
-                                <h2 class="head">ContÃ¡ctanos</h2>
+                                <h2 class="head">Contáctanos</h2>
 		      		<div class="row">
 		      			<div class="col-md-9">
 		      			  <div class="contact-form">
 				  	        <form>
 					    	    <p class="comment-form-author"><label for="author">Nombre:</label>
-					    	    	<input type="text" class="textbox" value="Escribe tu nombre aquÃ­..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+					    	    	<input type="text" class="textbox" value="Escribe tu nombre aquí­..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
 						    	</p>
 						        <p class="comment-form-author"><label for="author">Correo Electronico:</label>
-						     	   <input type="text" class="textbox" value="Escribe tu correo aquÃ­..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}">
+						     	   <input type="text" class="textbox" value="Escribe tu correo aquí­..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}">
 						        </p>
 						        <p class="comment-form-author"><label for="author">Mensaje:</label>
-						    	  <textarea value="Enter your message here..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Escribe tu mensaje aquÃ­...</textarea>
+						    	  <textarea value="Enter your message here..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Escribe tu mensaje aquí...</textarea>
 						        </p>
 						        <input name="submit" type="submit" id="submit" value="Enviar">
 					        </form>
@@ -240,7 +240,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		      			<div class="col-md-3 contact_right">
 		      				<h4>V-connect</h4>
 		      				<p class="contact_address">Contactanos en caso de sugerencias o dudas, queremos saber tu opiniÃ³n.</p>
-		      				<p class="contact_address1">TelÃ©fono: 99999999</p>
+		      				<p class="contact_address1">Teléfono: 99999999</p>
 		      			</div>
 		      		</div>
 		      	</div>
