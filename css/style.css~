@@ -23,7 +23,8 @@ body a{
 /*-----start-header----*/
 .header{
 	background:#284699;
-	position:relative;
+
+float:left;
 }
 .logo{
 	float:left;
@@ -99,7 +100,7 @@ body a{
 	     width:95%;
 		 position: absolute;
 		 right:23px;
-		 background:#000000;
+		 background:#051619;
 		 top:60px;
 		 z-index: 9999;
 		 border:1px solid #eee;

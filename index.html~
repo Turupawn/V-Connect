@@ -68,7 +68,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <body>
        <!----start-header---->
 		<div class="header">
-			<div class="container">
+			<div class="container_header">
 				<div class="logo">
 				  <a href="index.html"><img src="images/logo.png" alt=""></a>
 				</div>
@@ -112,7 +112,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		    <div class="main">
 		    	<div class="content_top" id="about">
 		    		<div class='container'>
-		    			<h2 class="head">About Us</h2>
+		    			<h2 class="head">¿Quiénes Somos?</h2>
 		    			<p class="m_1">Somos intermediarios entre personas que están interesadas en obtener una oportunidad laboral y las empresas en busca de profesionales. Comenzamos como un proyecto inspirado en hacer uso de la tecnologia para facilitar la busqueda de empleo sin importar el lugar o el momento, ya que se administra por medio de un Smartphone.</p>
 		    			<div class="row top_box">
 		    				<div class="col-md-6 contentleft_grid">
@@ -174,13 +174,43 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		    	  <div class="container"> 
 			       <div class="portfolio_top">
 					 <h3 class="m_5">Inscripción</h3>
-<form method="post" action="contact-post.html">
-<div class="contact-form">
-<p class="comment-form-author"><label for="author">Nombre:</label>
-					    	    	<input type="text" class="textbox" value="Escribe tu nombre aquí..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
-						    	</p>
-</div>
-</form>
+                                           <form method="post" action="contact-post.html">
+                                             <div class="contact-form">
+
+                                               <p class="comment-form-author"><label for="author">Nombre:</label>
+					         <input type="text" class="textbox" value="Escribe tu nombre completo aquí..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+					       </p>
+
+                                               <p class="comment-form-author"><label for="author">Fecha de nacimiento:</label>
+					         <input type="text" class="textbox" value="Escribe tu fecha de nacimiento aquí..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+					       </p>
+
+                                               <p class="comment-form-author"><label for="author">Dirección Personal:</label>
+					         <input type="text" class="textbox" value="Escribe tu dirección personal aquí..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+					       </p>
+
+                                               <p class="comment-form-author"><label for="author">Número de Teléfono:</label>
+					         <input type="text" class="textbox" value="Escribe tu número de teléfono aquí..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+					       </p>
+
+                                               <p class="comment-form-author"><label for="author">Dirección de correo electrónico:</label>
+					         <input type="text" class="textbox" value="Escribe tu dirección electrónica aquí..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+					       </p>
+
+                                               <p class="comment-form-author"><label for="author">formación Academica:</label>
+					         <input type="text" class="textbox" value="Escribe el lugar en el que te formaste e indica   las fechas..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+					       </p>                                             
+
+                                               <p class="comment-form-author"><label for="author">Experiencia Profesional:</label>
+					         <input type="text" class="textbox" value="Escribe el puesto, la empresa e indica las fechas..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+					       </p>
+
+                                               <p class="comment-form-author"><label for="author">Idiomas:</label>
+					         <input type="text" class="textbox" value="Escribe los idiomas y si posees algún titulo que acredite el nivel de conocimiento..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
+					       </p>                                               
+                                               <input name="submit" type="submit" id="submit" value="Enviar">
+                                             </div>
+                                           </form>
 				     <div class="clear"></div>
 			       </div>
                           </div>
@@ -192,7 +222,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		      		<div class="row">
 		      			<div class="col-md-9">
 		      			  <div class="contact-form">
-				  	        <form method="post" action="contact-post.html">
+				  	        <form>
 					    	    <p class="comment-form-author"><label for="author">Nombre:</label>
 					    	    	<input type="text" class="textbox" value="Escribe tu nombre aquí..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your name here...';}">
 						    	</p>
@@ -202,7 +232,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						        <p class="comment-form-author"><label for="author">Mensaje:</label>
 						    	  <textarea value="Enter your message here..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Escribe tu mensaje aquí...</textarea>
 						        </p>
-						        <input name="submit" type="submit" id="submit" value="Submit">
+						        <input name="submit" type="submit" id="submit">
 					        </form>
 				          </div>
 				        </div>
