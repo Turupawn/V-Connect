@@ -23,8 +23,7 @@ body a{
 /*-----start-header----*/
 .header{
 	background:#284699;
-
-float:left;
+	position:relative;
 }
 .logo{
 	float:left;
@@ -296,39 +295,39 @@ p.service_desc {
 	margin-bottom:3em;
 }
 i.icon1{
-	width: 90px;
-	height: 90px;
-	background: url(../images/img-sprite.png)no-repeat -14px -5px;
+	width: 100px;
+	height: 100px;
+	background: url(../images/img-sprite.png)no-repeat 0px 0px;
 	display: block;
 }
 i.icon2{
-	width: 90px;
-	height: 90px;
-	background: url(../images/img-sprite.png)no-repeat -120px -5px;
+	width: 100px;
+	height: 100px;
+	background: url(../images/img-sprite.png)no-repeat -100px -0px;
 	display: block;
 }
 i.icon3{
-	width: 90px;
-	height: 90px;
-	background: url(../images/img-sprite.png)no-repeat -14px -101px;
+	width: 100px;
+	height: 100px;
+	background: url(../images/img-sprite.png)no-repeat -0px -100px;
 	display: block;
 }
 i.icon4{
-	width: 90px;
-	height: 90px;
-	background: url(../images/img-sprite.png)no-repeat -120px -101px;
+	width: 100px;
+	height: 100px;
+	background: url(../images/img-sprite.png)no-repeat -100px -100px;
 	display: block;
 }
 i.icon5{
-	width: 90px;
-	height: 90px;
-	background: url(../images/img-sprite.png)no-repeat -14px -199px;
+	width: 100px;
+	height: 100px;
+	background: url(../images/img-sprite.png)no-repeat -0px -200px;
 	display: block;
 }
 i.icon6{
-	width: 90px;
-	height: 90px;
-	background: url(../images/img-sprite.png)no-repeat -120px -199px;
+	width: 100px;
+	height: 100px;
+	background: url(../images/img-sprite.png)no-repeat -100px -200px;
 	display: block;
 }
 .service_grid h3{
@@ -656,6 +655,19 @@ p.single_text {
 	border: 1px solid #eee;
 	font-family: 'Lato', sans-serif;
 }
+
+.comments-area input[type="password"] {
+	padding: 10px 20px;
+	width: 70%;
+	color: #999;
+	font-size: 13px;
+	background: none;
+	outline: none;
+	display: block;
+	border: 1px solid #eee;
+	font-family: 'Lato', sans-serif;
+}
+
 .comments-area textarea {
 	padding: 10px 20px;
 	width: 80%;
@@ -922,6 +934,10 @@ div.col-md-4.service_grid {
 	width: 47.5%;
 }
 .contact-form input[type="text"], .contact-form textarea{
+	padding: 12px;
+	width: 99%;
+}
+.contact-form input[type="password"], .contact-form textarea{
 	padding: 12px;
 	width: 99%;
 }
